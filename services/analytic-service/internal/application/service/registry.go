@@ -1,8 +1,8 @@
 package service
 
 import (
-	"analytic-service/internal/applicaton/service/task/accept_task"
-	"analytic-service/internal/applicaton/service/task/get_task_count"
+	"analytic-service/internal/application/service/task/accept_task"
+	"analytic-service/internal/application/service/task/get_task_count"
 	"analytic-service/internal/infrastructure/storage"
 )
 

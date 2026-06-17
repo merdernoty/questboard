@@ -3,7 +3,7 @@ package platform
 import (
 	"context"
 
-	"order-service/internal/pkg/event"
+	"task-service/internal/pkg/event"
 
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/samber/lo"

@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"analytic-service/config"
-	"analytic-service/internal/applicaton/service"
+	"analytic-service/internal/application/service"
 	"analytic-service/internal/infrastructure/storage"
 
 	"analytic-service/internal/infrastructure/messagebus"

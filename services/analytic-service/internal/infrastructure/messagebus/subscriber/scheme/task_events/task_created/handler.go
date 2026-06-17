@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log/slog"
 
-	"analytic-service/internal/applicaton/service/task/accept_task"
+	"analytic-service/internal/application/service/task/accept_task"
 	"analytic-service/internal/infrastructure/messagebus/subscriber/scheme/task_events/task_created/event"
 
 	"github.com/IBM/sarama"

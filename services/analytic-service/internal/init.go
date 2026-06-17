@@ -10,7 +10,7 @@ import (
 
 	"analytic-service/config"
 	v1 "analytic-service/internal/app/analytic/v1"
-	"analytic-service/internal/applicaton/service"
+	"analytic-service/internal/application/service"
 	"analytic-service/internal/infrastructure/messagebus"
 	"analytic-service/internal/infrastructure/storage"
 	"analytic-service/internal/pkg/connector/postgres"

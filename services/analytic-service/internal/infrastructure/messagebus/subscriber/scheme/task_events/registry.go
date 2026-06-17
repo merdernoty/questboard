@@ -1,7 +1,7 @@
 package task_events
 
 import (
-	"analytic-service/internal/applicaton/service"
+	"analytic-service/internal/application/service"
 	"analytic-service/internal/infrastructure/messagebus/subscriber/scheme/task_events/task_created"
 )
 

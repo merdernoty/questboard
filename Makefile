@@ -1,4 +1,4 @@
-up-all:
+ up-all:
 	docker-compose up --remove-orphans
 
 down-all:

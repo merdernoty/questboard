@@ -1,6 +1,6 @@
 package v1
 
-import "analytic-service/internal/applicaton/service"
+import "analytic-service/internal/application/service"
 
 type Implementation struct {
 	services *service.Registry

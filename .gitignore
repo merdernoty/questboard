@@ -23,6 +23,8 @@ profile.cov
 
 /postgres-data
 /bin
+# Compiled dev tools (goose, gotestsum, mockgen, xo) — installed locally per service
+bin/
 /.idea
 # Go workspace file
 go.work

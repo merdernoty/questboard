@@ -3,7 +3,7 @@ package messagebus
 import (
 	"context"
 
-	"analytic-service/internal/applicaton/service"
+	"analytic-service/internal/application/service"
 	"analytic-service/internal/infrastructure/messagebus/subscriber"
 	"analytic-service/internal/infrastructure/messagebus/subscriber/scheme/task_events"
 	"analytic-service/internal/pkg/closer"
