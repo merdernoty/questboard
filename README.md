@@ -1,4 +1,4 @@
-# Homework Stand
+# Questboard
 
 A microservice-based task marketplace built to practice **fault-tolerant distributed systems**.
 The platform lets users create paid tasks, browse a category catalogue, manage profiles with
